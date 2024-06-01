@@ -40,3 +40,7 @@ Future improvements could include multiple levels, different enemy movement patt
 - **Programming Language**: Python
 - **IDE**: PyCharm
 - **Library**: Pygame
+
+## Art Assets
+- **Initial Screen, Chinchilla Icon, Owl Icon, Star Icon, Leaves Icon**: Drawn using Procreate
+
